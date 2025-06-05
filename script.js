@@ -22,7 +22,6 @@ const characterFeatures = {
         'Urban Bounty Hunter', 'Urchin', 'Waterdhavian Noble', 'Witchlight Hand']
 }
 
-
 // Generates a random number based on length of an array
 function generateRandomIndex(array) {
     return Math.floor(Math.random() * array.length);
