@@ -56,4 +56,18 @@ function generateRandomCharacter(object) {
 }
 
 generateRandomCharacter(characterFeatures);
-generateRandomCharacter(testObject);
+generateRandomCharacter(characterFeatures);
+generateRandomCharacter(characterFeatures);
+generateRandomCharacter(characterFeatures);
+generateRandomCharacter(characterFeatures);
+generateRandomCharacter(characterFeatures);
+generateRandomCharacter(characterFeatures);
+generateRandomCharacter(characterFeatures);
+generateRandomCharacter(characterFeatures);
+generateRandomCharacter(characterFeatures);
+generateRandomCharacter(characterFeatures);
+generateRandomCharacter(characterFeatures);
+generateRandomCharacter(characterFeatures);
+generateRandomCharacter(characterFeatures);
+generateRandomCharacter(characterFeatures);
+generateRandomCharacter(characterFeatures);
