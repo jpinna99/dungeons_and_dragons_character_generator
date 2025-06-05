@@ -54,20 +54,3 @@ function generateRandomCharacter(object) {
         console.log(`For your next character, might we suggest ${checkFirstLetter(race)} ${race.toUpperCase()} ${DnDclass.toUpperCase()} with ${checkFirstLetter(background)} ${background.toUpperCase()} background whose alignment is ${alignment.toUpperCase()}.`);
     }
 }
-
-generateRandomCharacter(characterFeatures);
-generateRandomCharacter(characterFeatures);
-generateRandomCharacter(characterFeatures);
-generateRandomCharacter(characterFeatures);
-generateRandomCharacter(characterFeatures);
-generateRandomCharacter(characterFeatures);
-generateRandomCharacter(characterFeatures);
-generateRandomCharacter(characterFeatures);
-generateRandomCharacter(characterFeatures);
-generateRandomCharacter(characterFeatures);
-generateRandomCharacter(characterFeatures);
-generateRandomCharacter(characterFeatures);
-generateRandomCharacter(characterFeatures);
-generateRandomCharacter(characterFeatures);
-generateRandomCharacter(characterFeatures);
-generateRandomCharacter(characterFeatures);
